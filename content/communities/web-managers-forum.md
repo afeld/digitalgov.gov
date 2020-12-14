@@ -66,7 +66,3 @@ Knowledge Sharing: This listserv provides you with a platform to ask and answer 
 - [Paperwork Reduction Act Fast Track Process](https://www.digitalgov.gov/resources/paperwork-reduction-act-fast-track-process/)
 - [Plain Language Guidelines](https://plainlanguage.gov/guidelines/)
 - [U.S Web Design System](https://designsystem.digital.gov/)
-
-
-## Community Conduct
-When participating in this CoP, follow [Digital.gov Etiquette Guidelines](https://digital.gov/communities/manage-your-subscription/). Respect your peers, use plain language, be patient, practice constructive criticism, and stay organized. By participating in this CoP conversation, you agree to abide by the [TTS Code of Conduct](https://handbook.tts.gsa.gov/code-of-conduct/).
