@@ -132,6 +132,11 @@
               {{- .Content -}}
             </div>
 
+            <div class="Community_conduct">
+              <h2>Community Conduct</h2>
+              {{- partial "core/cop_pagefooter" . -}}
+            </div>
+
             {{- partial "core/page-data" (dict "page" . "page_type" "community" "branch" ($.Scratch.Get "branch")) -}}
 
           </div>
